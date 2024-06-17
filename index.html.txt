@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marian Mîndrescu - Jurist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 1rem;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 1rem;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .logo {
+            max-width: 150px;
+            margin: 0 auto 1rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="b5c0709c-fbda-4a1e-92a9-5e1d3f6afefb.webp" alt="Logo" class="logo">
+        <h1>Marian Mîndrescu</h1>
+        <p>Jurist</p>
+        <nav>
+            <ul>
+                <li><a href="#about">Despre Mine</a></li>
+                <li><a href="#projects">Proiecte</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section id="about">
+            <h2>Despre Mine</h2>
+            <p>Sunt Marian Mîndrescu, un jurist pasionat de drept și dedicat să ofer soluții juridice eficiente și profesionale. Cu o experiență vastă în diverse domenii ale dreptului, mă străduiesc să ajut clienții să-și atingă obiectivele și să-și protejeze interesele.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Proiecte</h2>
+            <p>Aici poți menționa câteva dintre proiectele tale importante, cazuri rezolvate sau publicații relevante.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Pentru a mă contacta, te rog să folosești următoarele informații:</p>
+            <ul>
+                <li>Email: <a href="mailto:marian.mindrescu15@mail.ru">marian.mindrescu15@mail.ru</a></li>
+                <li>Telefon: 061140932</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Marian Mîndrescu. Toate drepturile rezervate.</p>
+    </footer>
+</body>
+</html>
 
